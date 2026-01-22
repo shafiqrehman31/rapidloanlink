@@ -39,9 +39,17 @@ export default function RootLayout({
 }>) {
   return (
     <html
-      lang='en'
+      lang="en"
       className={`${wendyOne.variable} ${zenMaruGothic.variable}`}
     >
+      <head>
+        {/* Load public CSS files via link */}
+        <link rel="stylesheet" href="/assets/css/phosphor-icons-fill.css" />
+        <link rel="stylesheet" href="/assets/css/phosphor-icons-duotone.css" />
+        <link rel="stylesheet" href="/assets/css/aos.css" />
+        <link rel="stylesheet" href="/assets/css/bootstrap.min.css" />
+        <link rel="stylesheet" href="/assets/css/main.css" />
+      </head>
       <body suppressHydrationWarning={true}>
         <ErrorBoundary>
           <BootstrapInit />
