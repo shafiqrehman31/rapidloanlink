@@ -51,7 +51,7 @@ const Page: React.FC = () => {
       <FAQOne />
 
       {/* NewsletterTwo */}
-      <NewsletterTwo />
+     {/* <NewsletterTwo /> */} 
 
       {/* FooterThree */}
       <FooterThree />

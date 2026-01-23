@@ -5,7 +5,7 @@ import Preloader from "@/helper/Preloader";
 import TopHeaderOne from "@/components/TopHeaderOne";
 import HeaderOne from "@/components/HeaderOne";
 import Breadcrumb from "@/components/Breadcrumb";
-import NewsletterTwo from "@/components/NewsletterTwo";
+/*import NewsletterTwo from "@/components/NewsletterTwo";*/
 import FooterThree from "@/components/FooterThree";
 import ContactInner from "@/components/ContactInner";
 
@@ -51,7 +51,7 @@ const Page: React.FC = () => {
       <ContactInner />
 
       {/* NewsletterTwo */}
-      <NewsletterTwo />
+      {/*<NewsletterTwo />*/}
 
       {/* FooterThree */}
       <FooterThree />
