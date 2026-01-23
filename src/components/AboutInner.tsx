@@ -34,7 +34,7 @@ const AboutInner: React.FC = () => {
               data-aos='fade-up'
               data-aos-duration={1000}
             >
-              Help agencies to define their business objectives and then create{" "}
+             Apply online today and see how simple getting a loan can be with RapidLoanLink.{" "}
             </p>
             <div
               className='max-w-181 position-relative'
@@ -42,10 +42,10 @@ const AboutInner: React.FC = () => {
               data-aos-duration={1200}
             >
               <Link
-                href='/about-us'
+                href='/apply-loan'
                 className='about-us-three-link bg-main-600 tw-px-5 tw-py-205 w-100 rounded-3 border-two-px-solid text-dark-600 fw-semibold hover-text-dark-600 '
               >
-                MORE ABOUT US
+                Apply Now
               </Link>
             </div>
           </div>
@@ -61,9 +61,7 @@ const AboutInner: React.FC = () => {
                 Our Mission &amp; Values
               </h4>
               <p className='fw-normal tw-text-lg text-dark-500 tw-mb-8'>
-                paynone our journey began with a vision to revolutionize banking
-                by embracing the digital age. banking experience tailored to the
-                evolving needs of our customers.
+                Our mission is to help people across the United States access reliable loan solutions without confusion or delays. We focus on transparency, speed, and convenience—so you always know what to expect at every step of the process.
               </p>
               <div className='tw-mb-8'>
                 <div className='d-flex align-items-center tw-gap-2 tw-mb-3'>
@@ -71,7 +69,7 @@ const AboutInner: React.FC = () => {
                     <i className='ph ph-check-circle' />
                   </span>
                   <span className='fw-normal tw-text-lg text-dark-600'>
-                    User-Friendly Mobile App
+                   {/** User-Friendly Mobile App*/} 
                   </span>
                 </div>
                 <div className='d-flex align-items-center tw-gap-2 tw-mb-3'>
@@ -79,7 +77,7 @@ const AboutInner: React.FC = () => {
                     <i className='ph ph-check-circle' />
                   </span>
                   <span className='fw-normal tw-text-lg text-dark-600'>
-                    Secure Online Banking
+                    {/**Secure Online Banking*/}
                   </span>
                 </div>
                 <div className='d-flex align-items-center tw-gap-2 tw-mb-3'>
@@ -87,7 +85,7 @@ const AboutInner: React.FC = () => {
                     <i className='ph ph-check-circle' />
                   </span>
                   <span className='fw-normal tw-text-lg text-dark-600'>
-                    Personalized Financial Solutions
+                    {/**Personalized Financial Solutions */}
                   </span>
                 </div>
                 <div className='d-flex align-items-center tw-gap-2 tw-mb-3'>
@@ -95,16 +93,16 @@ const AboutInner: React.FC = () => {
                     <i className='ph ph-check-circle' />
                   </span>
                   <span className='fw-normal tw-text-lg text-dark-600'>
-                    Assistance with Technical Issues
+                    {/**Assistance with Technical Issues */}
                   </span>
                 </div>
               </div>
               <div className='position-relative max-w-155'>
                 <Link
-                  href='/our-team'
+                  href='/aply-loan'
                   className='about-us-three-link tw-px-5 tw-py-205 bg-main-600 fw-semibold tw-text-lg text-base-two-600 rounded-3 border-two-px-solid'
                 >
-                  LEARN MORE
+                  Apply Now
                 </Link>
               </div>
             </div>
@@ -113,7 +111,7 @@ const AboutInner: React.FC = () => {
             <Image
               width={306}
               height={444}
-              src='/assets/images/thumbs/about-us-three-img1.png'
+              src='/assets/images/thumbs/about-us-main.png'
               alt='Image'
               className='w-100 h-100'
               data-aos='fade-up'
@@ -133,7 +131,7 @@ const AboutInner: React.FC = () => {
                       aria-expanded='true'
                       aria-controls='collapseFive'
                     >
-                      Our Story
+                      What We Do
                     </button>
                   </h2>
                   <div
@@ -143,9 +141,7 @@ const AboutInner: React.FC = () => {
                   >
                     <div className='accordion-body'>
                       <p className='fw-normal tw-text-lg text-dark-700'>
-                        paynone we are a dedicated team of financial experts
-                        committed to providing innovative, and user-friendly
-                        online banking solutions to your unique financial needs.
+                       At RapidLoanLink, we streamline the loan application process by keeping it simple and user-friendly. From submitting your request to receiving funds, everything is designed to save you time and effort. Loan amounts range from $100 to $5,000, making it easier to handle everyday needs and unexpected costs.
                       </p>
                     </div>
                   </div>
@@ -170,9 +166,7 @@ const AboutInner: React.FC = () => {
                   >
                     <div className='accordion-body'>
                       <p className='fw-normal tw-text-lg text-white'>
-                        paynone we are a dedicated team of financial experts
-                        committed to providing innovative, and user-friendly
-                        online banking solutions to your unique financial needs.{" "}
+                       RapidLoanLink is an online platform built to make getting a loan simple, fast, and stress-free. We understand that unexpected expenses can happen at any time, which is why our goal is to provide quick access to loan options through a smooth and secure digital experience.{" "}
                       </p>
                     </div>
                   </div>
@@ -187,7 +181,7 @@ const AboutInner: React.FC = () => {
                       aria-expanded='false'
                       aria-controls='collapseSeven'
                     >
-                      Why Choose paynone
+                      Why We Exist
                     </button>
                   </h2>
                   <div
@@ -197,9 +191,7 @@ const AboutInner: React.FC = () => {
                   >
                     <div className='accordion-body'>
                       <p className='fw-normal tw-text-lg text-dark-700'>
-                        paynone we are a dedicated team of financial experts
-                        committed to providing innovative, and user-friendly
-                        online banking solutions to your unique financial needs.{" "}
+                        Traditional borrowing can feel overwhelming. Complicated forms, long wait times, and unclear terms often create frustration. RapidLoanLink was created to change that—offering a clear, online solution that puts control back in your hands.{" "}
                       </p>
                     </div>
                   </div>

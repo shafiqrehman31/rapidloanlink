@@ -6,6 +6,7 @@ import "./globals.css";
 import BootstrapInit from "@/helper/BootstrapInit";
 import RouteScrollToTop from "@/helper/RouteScrollToTop";
 import ErrorBoundary from "@/helper/ErrorBoundary";
+import '@fortawesome/fontawesome-svg-core/styles.css';
 
 const wendyOne = Wendy_One({
   subsets: ["latin"],

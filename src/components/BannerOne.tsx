@@ -157,7 +157,7 @@ const BannerOne: React.FC = () => {
             />
             <div className='banner-shape-five bg-white tw-py-5 tw-px-6 rounded-3 max-w-261 position-absolute inset-block-start-50px inset-inline-end--120px d-lg-block d-none z-1 animation-Updowm__two'>
               <span className='tw-text-lg fw-semibold text-dark-600 tw-mb-3'>
-                Payment Received
+                Payment Issue
               </span>
               <h4 className='fw-normal tw-mb-3 counter'>
                 {/* CounterView */}

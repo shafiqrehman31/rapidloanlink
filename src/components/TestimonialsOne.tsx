@@ -81,7 +81,7 @@ const TestimonialsOne: React.FC = () => {
               data-aos='fade-up'
               data-aos-duration={800}
             >
-              245m+ happy clients all around the world. Don’t just take our word
+              4K+ Happy Clients all over the USA. Don’t just take our word
               for it
             </p>
             <div
@@ -120,19 +120,11 @@ const TestimonialsOne: React.FC = () => {
               <div className='bg-white tw-px-8 tw-py-8 tw-rounded-xl w-100 h-100'>
                 <div className=''>
                   <div className='d-flex align-items-center justify-content-between tw-gap-3 flex-wrap tw-mb-6'>
-                    <Image
-                      width={60}
-                      height={60}
-                      src='/assets/images/thumbs/testimonial-img1.png'
-                      alt='Darlene Robertson'
-                    />
+
                     <div className=''>
                       <h5 className='fw-medium text-dark-600 tw-mb-05'>
-                        Darlene Robertson
+                        Sarah M
                       </h5>
-                      <span className='fw-normal text-dark-500 tw-text-lg'>
-                        Software Tester
-                      </span>
                     </div>
                     <Image
                       width={48}
@@ -143,9 +135,7 @@ const TestimonialsOne: React.FC = () => {
                   </div>
                 </div>
                 <p className='fw-normal text-dark-500 tw-text-lg tw-mb-6'>
-                  Our customers love the seamless, Reliable service, and 24/7
-                  support make transferring money Trust us for your global
-                  payment needs!
+                  Applying for a loan was surprisingly easy! The process was quick, and the money was in my account the very next day. Everything was clear and straightforward
                 </p>
                 <span className='w-100 bg-neutral-05 h-005 d-block' />
                 <div className='d-flex align-items-center tw-gap-5 justify-content-between flex-wrap tw-mt-8'>
@@ -178,19 +168,12 @@ const TestimonialsOne: React.FC = () => {
               <div className='bg-white tw-px-8 tw-py-8 tw-rounded-xl w-100 h-100'>
                 <div className=''>
                   <div className='d-flex align-items-center justify-content-between tw-gap-3 flex-wrap tw-mb-6'>
-                    <Image
-                      width={60}
-                      height={60}
-                      src='/assets/images/thumbs/testimonial-img2.png'
-                      alt='Darlene Robertson'
-                    />
+                    
                     <div className=''>
                       <h5 className='fw-medium text-dark-600 tw-mb-05'>
-                        Jenny Wilson
+                        Jason R.
                       </h5>
-                      <span className='fw-normal text-dark-500 tw-text-lg'>
-                        Software Tester
-                      </span>
+                      
                     </div>
                     <Image
                       width={48}
@@ -201,9 +184,7 @@ const TestimonialsOne: React.FC = () => {
                   </div>
                 </div>
                 <p className='fw-normal text-dark-500 tw-text-lg tw-mb-6'>
-                  Our customers love the seamless, Reliable service, and 24/7
-                  support make transferring money Trust us for your global
-                  payment needs!
+                  I needed some extra funds fast, and this was perfect. The application took just a few minutes, approval was quick, and paying it back was hassle-free.
                 </p>
                 <span className='w-100 bg-neutral-05 h-005 d-block' />
                 <div className='d-flex align-items-center tw-gap-5 justify-content-between flex-wrap tw-mt-8'>
@@ -236,19 +217,11 @@ const TestimonialsOne: React.FC = () => {
               <div className='bg-white tw-px-8 tw-py-8 tw-rounded-xl w-100 h-100'>
                 <div className=''>
                   <div className='d-flex align-items-center justify-content-between tw-gap-3 flex-wrap tw-mb-6'>
-                    <Image
-                      width={60}
-                      height={60}
-                      src='/assets/images/thumbs/testimonial-img3.png'
-                      alt='Darlene Robertson'
-                    />
+                 
                     <div className=''>
                       <h5 className='fw-medium text-dark-600 tw-mb-05'>
-                        Kathryn Murphy
+                        Emily T.
                       </h5>
-                      <span className='fw-normal text-dark-500 tw-text-lg'>
-                        Software Tester
-                      </span>
                     </div>
                     <Image
                       width={48}
@@ -259,9 +232,7 @@ const TestimonialsOne: React.FC = () => {
                   </div>
                 </div>
                 <p className='fw-normal text-dark-500 tw-text-lg tw-mb-6'>
-                  Our customers love the seamless, Reliable service, and 24/7
-                  support make transferring money Trust us for your global
-                  payment needs!
+                  I was worried about my credit score affecting approval, but everything went smoothly. The team guided me through the steps, and I had the money I needed within 24 hours.
                 </p>
                 <span className='w-100 bg-neutral-05 h-005 d-block' />
                 <div className='d-flex align-items-center tw-gap-5 justify-content-between flex-wrap tw-mt-8'>
@@ -294,19 +265,11 @@ const TestimonialsOne: React.FC = () => {
               <div className='bg-white tw-px-8 tw-py-8 tw-rounded-xl w-100 h-100'>
                 <div className=''>
                   <div className='d-flex align-items-center justify-content-between tw-gap-3 flex-wrap tw-mb-6'>
-                    <Image
-                      width={60}
-                      height={60}
-                      src='/assets/images/thumbs/testimonial-img2.png'
-                      alt='Darlene Robertson'
-                    />
+                    
                     <div className=''>
                       <h5 className='fw-medium text-dark-600 tw-mb-05'>
-                        Jenny Wilson
+                       Michael B.
                       </h5>
-                      <span className='fw-normal text-dark-500 tw-text-lg'>
-                        Software Tester
-                      </span>
                     </div>
                     <Image
                       width={48}
@@ -317,9 +280,7 @@ const TestimonialsOne: React.FC = () => {
                   </div>
                 </div>
                 <p className='fw-normal text-dark-500 tw-text-lg tw-mb-6'>
-                  Our customers love the seamless, Reliable service, and 24/7
-                  support make transferring money Trust us for your global
-                  payment needs!
+                  Transparent, fast, and stress-free. I knew exactly what I was borrowing and how to repay it. It was easily the simplest loan experience I’ve ever had.
                 </p>
                 <span className='w-100 bg-neutral-05 h-005 d-block' />
                 <div className='d-flex align-items-center tw-gap-5 justify-content-between flex-wrap tw-mt-8'>

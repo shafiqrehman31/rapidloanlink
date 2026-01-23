@@ -35,14 +35,14 @@ const OurBankOne: React.FC = () => {
                 data-aos='fade-up'
                 data-aos-duration={600}
               >
-                11.5k
+                11.5k Happy Cusromer
               </h2>
               <span
                 className='fw-medium tw-text-6 text-white'
                 data-aos='fade-up'
                 data-aos-duration={800}
               >
-                Banking Card available
+               
               </span>
             </div>
             <div className='py-80 d-flex align-items-center tw-gap-6 justify-content-end flex-wrap w-100'>
@@ -53,11 +53,11 @@ const OurBankOne: React.FC = () => {
               >
                 <h2 className='fw-normal cursor-big tw-w-100px tw-h-100-px border-primary-600 rounded-circle d-flex align-items-center justify-content-center tw-mb-8 counter'>
                   {/* CounterView */}
-                  <CounterView start={0} end={12} title='+' />
+                  <CounterView start={0} end={5} title='+' />
                 </h2>
                 <h4 className='fw-normal tw-mb-2 '>Years of Excellent</h4>
                 <span className='fw-normal tw-text-lg text-dark-500'>
-                  Decades of Unmatched Excellence
+                 With years of industry experience, RapidLoanLink is committed to delivering fast, secure, and transparent loan solutions that customers can trust.
                 </span>
               </div>
               <div
@@ -67,12 +67,10 @@ const OurBankOne: React.FC = () => {
               >
                 <h2 className='fw-normal cursor-big tw-w-100px tw-h-100-px border-primary-600 rounded-circle d-flex align-items-center justify-content-center tw-mb-8 counter'>
                   {/* CounterView */}
-                  <CounterView start={0} end={75} title='+' />
+                  <CounterView start={0} end={15} title='+' />
                 </h2>
                 <h4 className='fw-normal tw-mb-2 '>Expert Members</h4>
-                <span className='fw-normal tw-text-lg text-dark-500'>
-                  Decades of Unmatched Excellence
-                </span>
+               
               </div>
             </div>
           </div>
@@ -90,22 +88,21 @@ const OurBankOne: React.FC = () => {
                     src='/assets/images/icon/star-icon2.png'
                     alt='Image'
                   />
-                  <h5 className='fw-normal text-primary-600'>Our Services</h5>
+                  <h5 className='fw-normal text-primary-600'>Apply Loan</h5>
                 </div>
                 <h2
                   className='fw-normal text-dark-600 tw-mb-3 cursor-big'
                   data-aos='fade-up'
                   data-aos-duration={800}
                 >
-                  Get Your paynone online Banking
+                  Get Fast & Secure Online Loans with RapidLoanLink
                 </h2>
                 <p
                   className='fw-normal tw-text-lg text-dark-500 tw-mb-8'
                   data-aos='fade-up'
                   data-aos-duration={1000}
                 >
-                  Our services include secure online banking, mobile app access,
-                  bill payments, fund transfers,
+                  Our services include fast, safe online loans, immediate fund access, hassle-free approval, and 24/7 account management.
                 </p>
                 <div
                   className='position-relative z-1 max-w-152-px w-100'
@@ -113,10 +110,10 @@ const OurBankOne: React.FC = () => {
                   data-aos-duration={1200}
                 >
                   <Link
-                    href='/services-details'
+                    href='/apply-loan'
                     className='our-services-three-link w-100 text-center tw-py-205 border-two-px-solid rounded-3 bg-main-600 text-dark-600 fw-semibold'
                   >
-                    ALL SERVICES
+                    Apply Now
                   </Link>
                 </div>
               </div>
