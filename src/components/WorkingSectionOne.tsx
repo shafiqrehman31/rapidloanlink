@@ -10,7 +10,7 @@ const WorkingSectionOne: React.FC = () => {
                 data-aos='fade-up'
                 data-aos-duration={800}
               >
-                Fast, Safe &amp; Simple Transactions
+                EASY STEPS
               </h3>
               <p
                 className='tw-text-lg text-dark-500 fw-normal'
@@ -36,11 +36,10 @@ const WorkingSectionOne: React.FC = () => {
                     STEP_01{" "}
                   </span>
                   <h4 className='fw-normal tw-mb-3 cursor-big'>
-                    Create an Account
+                    Apply Online
                   </h4>
                   <p className='fw-normal tw-text-lg text-dark-500'>
-                    Sign up with your email or phone number. Complete a quick
-                    verification to secure your account.
+                    Complete a quick and secure loan form in minutes.
                   </p>
                 </div>
               </div>
@@ -54,11 +53,10 @@ const WorkingSectionOne: React.FC = () => {
                     STEP_02
                   </span>
                   <h4 className='fw-normal tw-mb-3 cursor-big'>
-                    Add Payment Method
+                    Application Review
                   </h4>
                   <p className='fw-normal tw-text-lg text-dark-500'>
-                    Link your bank account, debit/credit card, or digital wallet
-                    to start sending or receiving money instantly.
+                   Your details are reviewed carefully for a smooth process.
                   </p>
                 </div>
                 <span className='payment-method tw-w-100px tw-h-100-px bg-base-two-10 tw-text-15 rounded-circle d-flex align-items-center justify-content-center text-base-two-600 flex-shrink-0'>
@@ -78,11 +76,10 @@ const WorkingSectionOne: React.FC = () => {
                     STEP_03{" "}
                   </span>
                   <h4 className='fw-normal tw-mb-3 cursor-big'>
-                    Send or Request Money
+                    Get Approved
                   </h4>
                   <p className='fw-normal tw-text-lg text-dark-500'>
-                    Choose your contact, enter the amount, and send or request
-                    money in just a few taps.
+                   Once verified, receive a fast loan decision.
                   </p>
                 </div>
               </div>
@@ -97,11 +94,10 @@ const WorkingSectionOne: React.FC = () => {
                   </span>
                   <h4 className='fw-normal tw-mb-3 cursor-big'>
                     {" "}
-                    Track &amp; Confirm
+                    Receive Your Funds
                   </h4>
                   <p className='fw-normal tw-text-lg text-dark-500'>
-                    Get real-time notifications and track your transactions with
-                    full transparency and security.
+                    Money is deposited directly into your bank account.
                   </p>
                 </div>
                 <span className='payment-method tw-w-100px tw-h-100-px bg-base-two-10 tw-text-15 rounded-circle d-flex align-items-center justify-content-center text-base-two-600 flex-shrink-0'>

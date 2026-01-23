@@ -91,7 +91,7 @@ const FAQOne: React.FC = () => {
                     />
                   </span>
                   <span className='faq-text fw-medium tw-text-lg text-dark-500 group-hover-text-white tw-transition-04-secend d-block'>
-                    Mobile Banking
+                    Credit
                   </span>
                 </button>
               </li>
@@ -116,7 +116,7 @@ const FAQOne: React.FC = () => {
                     />
                   </span>
                   <span className='faq-text fw-medium tw-text-lg text-dark-500 group-hover-text-white tw-transition-04-secend d-block'>
-                    Money Transfer
+                    Process
                   </span>
                 </button>
               </li>
@@ -141,10 +141,11 @@ const FAQOne: React.FC = () => {
                     />
                   </span>
                   <span className='faq-text fw-medium tw-text-lg text-dark-500 group-hover-text-white tw-transition-04-secend d-block'>
-                    Fees and Charges
+                    Fees
                   </span>
                 </button>
               </li>
+              
             </ul>
           </div>
           <div className='tab-content' id='pills-tabContent-two'>
@@ -170,7 +171,7 @@ const FAQOne: React.FC = () => {
                       aria-expanded='true'
                       aria-controls='collapseOne'
                     >
-                      What services do you offer?
+                     What is RapidLoanLink?
                     </button>
                   </h2>
                   <div
@@ -180,11 +181,7 @@ const FAQOne: React.FC = () => {
                   >
                     <div className='accordion-body'>
                       <p className='fw-normal tw-text-lg text-dark-600'>
-                        To access online and mobile banking, simply log in using
-                        your registered email or phone number along with your
-                        secure password. You can use our website via any browser
-                        or download our mobile app from the App Store or Google
-                        Play.
+                        RapidLoanLink helps you access fast, reliable loans through a simple online process. We focus on transparency, clear terms, and getting funds to you quickly without unnecessary hassle.
                       </p>
                     </div>
                   </div>
@@ -203,7 +200,7 @@ const FAQOne: React.FC = () => {
                       aria-expanded='false'
                       aria-controls='collapseTwo'
                     >
-                      How do I access online and mobile banking?
+                      What is a loan?
                     </button>
                   </h2>
                   <div
@@ -213,11 +210,7 @@ const FAQOne: React.FC = () => {
                   >
                     <div className='accordion-body'>
                       <p className='fw-normal tw-text-lg text-dark-600'>
-                        To access online and mobile banking, simply log in using
-                        your registered email or phone number along with your
-                        secure password. You can use our website via any browser
-                        or download our mobile app from the App Store or Google
-                        Play.
+                       A loan is a sum of money you can borrow for everyday expenses or unexpected needs. At RapidLoanLink, loan amounts range from $100 to $5,000, repaid in easy monthly installments.
                       </p>
                     </div>
                   </div>
@@ -236,7 +229,7 @@ const FAQOne: React.FC = () => {
                       aria-expanded='false'
                       aria-controls='collapseThree1'
                     >
-                      What fees should I expect?
+                     How much can I borrow?
                     </button>
                   </h2>
                   <div
@@ -246,11 +239,7 @@ const FAQOne: React.FC = () => {
                   >
                     <div className='accordion-body'>
                       <p className='fw-normal tw-text-lg text-dark-600'>
-                        To access online and mobile banking, simply log in using
-                        your registered email or phone number along with your
-                        secure password. You can use our website via any browser
-                        or download our mobile app from the App Store or Google
-                        Play.
+                        You can request any amount between $100 and $5,000. The exact amount approved depends on your income, credit profile, and eligibility.
                       </p>
                     </div>
                   </div>
@@ -269,7 +258,7 @@ const FAQOne: React.FC = () => {
                       aria-expanded='false'
                       aria-controls='collapseFour1'
                     >
-                      What security measures protect my information?
+                      Are loans available in my state?
                     </button>
                   </h2>
                   <div
@@ -279,11 +268,36 @@ const FAQOne: React.FC = () => {
                   >
                     <div className='accordion-body'>
                       <p className='fw-normal tw-text-lg text-dark-600'>
-                        To access online and mobile banking, simply log in using
-                        your registered email or phone number along with your
-                        secure password. You can use our website via any browser
-                        or download our mobile app from the App Store or Google
-                        Play.
+                        Loan availability may vary by state due to regulations. Once you submit your application, we’ll show you the options that are available where you live.
+                      </p>
+                    </div>
+                  </div>
+                </div>
+                <div
+                  className='accordion-item tw-mb-6 rounded-3 bg-neutral-10 border-neutral-1px-solid'
+                  data-aos='fade-up'
+                  data-aos-duration={600}
+                >
+                  <h2 className='accordion-header cursor-big position-relative z-2'>
+                    <button
+                      className='accordion-button bg-neutral-10 rounded-3 tw-text-xl tw-gap-1'
+                      type='button'
+                      data-bs-toggle='collapse'
+                      data-bs-target='#collapseOnee'
+                      aria-expanded='true'
+                      aria-controls='collapseOnee'
+                    >
+                      Can I qualify for a loan?
+                    </button>
+                  </h2>
+                  <div
+                    id='collapseOnee'
+                    className='accordion-collapse collapse show'
+                    data-bs-parent='#accordionExample-two'
+                  >
+                    <div className='accordion-body'>
+                      <p className='fw-normal tw-text-lg text-dark-600'>
+                        To qualify, you must be at least 18 years old, have a valid checking account, a permanent U.S. address, and a steady source of income.
                       </p>
                     </div>
                   </div>
@@ -312,7 +326,7 @@ const FAQOne: React.FC = () => {
                       aria-expanded='true'
                       aria-controls='collapseOnee'
                     >
-                      What services do you offer?
+                     Does applying affect my credit?
                     </button>
                   </h2>
                   <div
@@ -322,11 +336,7 @@ const FAQOne: React.FC = () => {
                   >
                     <div className='accordion-body'>
                       <p className='fw-normal tw-text-lg text-dark-600'>
-                        To access online and mobile banking, simply log in using
-                        your registered email or phone number along with your
-                        secure password. You can use our website via any browser
-                        or download our mobile app from the App Store or Google
-                        Play.
+                       We start with a soft credit check to show you available loan options — this won’t impact your credit score. A hard credit check may only be done by the lender when you accept a loan, and it will appear on your credit report.
                       </p>
                     </div>
                   </div>
@@ -345,7 +355,7 @@ const FAQOne: React.FC = () => {
                       aria-expanded='false'
                       aria-controls='collapseTwoo'
                     >
-                      How do I access online and mobile banking?
+                      Can I still get a loan with a low credit score?
                     </button>
                   </h2>
                   <div
@@ -355,81 +365,12 @@ const FAQOne: React.FC = () => {
                   >
                     <div className='accordion-body'>
                       <p className='fw-normal tw-text-lg text-dark-600'>
-                        To access online and mobile banking, simply log in using
-                        your registered email or phone number along with your
-                        secure password. You can use our website via any browser
-                        or download our mobile app from the App Store or Google
-                        Play.
+                        Yes! We review applications from all credit profiles. Your credit history is just one factor; we also consider income, employment stability, and overall financial situation to determine approval and terms.
                       </p>
                     </div>
                   </div>
                 </div>
-                <div
-                  className='accordion-item tw-mb-6 rounded-3 bg-neutral-10 border-neutral-1px-solid'
-                  data-aos='fade-up'
-                  data-aos-duration={1000}
-                >
-                  <h2 className='accordion-header cursor-big position-relative z-2'>
-                    <button
-                      className='accordion-button collapsed bg-neutral-10 rounded-3 tw-text-xl tw-gap-1'
-                      type='button'
-                      data-bs-toggle='collapse'
-                      data-bs-target='#collapseThree2'
-                      aria-expanded='false'
-                      aria-controls='collapseThree2'
-                    >
-                      What fees should I expect?
-                    </button>
-                  </h2>
-                  <div
-                    id='collapseThree2'
-                    className='accordion-collapse collapse'
-                    data-bs-parent='#accordionExample-two'
-                  >
-                    <div className='accordion-body'>
-                      <p className='fw-normal tw-text-lg text-dark-600'>
-                        To access online and mobile banking, simply log in using
-                        your registered email or phone number along with your
-                        secure password. You can use our website via any browser
-                        or download our mobile app from the App Store or Google
-                        Play.
-                      </p>
-                    </div>
-                  </div>
-                </div>
-                <div
-                  className='accordion-item tw-mb-6 rounded-3 bg-neutral-10 border-neutral-1px-solid'
-                  data-aos='fade-up'
-                  data-aos-duration={1200}
-                >
-                  <h2 className='accordion-header cursor-big position-relative z-2'>
-                    <button
-                      className='accordion-button collapsed bg-neutral-10 rounded-3 tw-text-xl tw-gap-1'
-                      type='button'
-                      data-bs-toggle='collapse'
-                      data-bs-target='#collapseFour2'
-                      aria-expanded='false'
-                      aria-controls='collapseFour2'
-                    >
-                      What security measures protect my information?
-                    </button>
-                  </h2>
-                  <div
-                    id='collapseFour2'
-                    className='accordion-collapse collapse'
-                    data-bs-parent='#accordionExample-two'
-                  >
-                    <div className='accordion-body'>
-                      <p className='fw-normal tw-text-lg text-dark-600'>
-                        To access online and mobile banking, simply log in using
-                        your registered email or phone number along with your
-                        secure password. You can use our website via any browser
-                        or download our mobile app from the App Store or Google
-                        Play.
-                      </p>
-                    </div>
-                  </div>
-                </div>
+               
               </div>
             </div>
             <div
@@ -454,7 +395,7 @@ const FAQOne: React.FC = () => {
                       aria-expanded='true'
                       aria-controls='collapseOneee'
                     >
-                      What services do you offer?
+                      How will I receive my loan funds?
                     </button>
                   </h2>
                   <div
@@ -464,11 +405,7 @@ const FAQOne: React.FC = () => {
                   >
                     <div className='accordion-body'>
                       <p className='fw-normal tw-text-lg text-dark-600'>
-                        To access online and mobile banking, simply log in using
-                        your registered email or phone number along with your
-                        secure password. You can use our website via any browser
-                        or download our mobile app from the App Store or Google
-                        Play.
+                        After completing our simple online application and getting approved, your loan amount is sent directly to your bank account, often within one business day.
                       </p>
                     </div>
                   </div>
@@ -487,7 +424,7 @@ const FAQOne: React.FC = () => {
                       aria-expanded='false'
                       aria-controls='collapseTwooo'
                     >
-                      How do I access online and mobile banking?
+                      How fast can I get my loan?
                     </button>
                   </h2>
                   <div
@@ -497,11 +434,7 @@ const FAQOne: React.FC = () => {
                   >
                     <div className='accordion-body'>
                       <p className='fw-normal tw-text-lg text-dark-600'>
-                        To access online and mobile banking, simply log in using
-                        your registered email or phone number along with your
-                        secure password. You can use our website via any browser
-                        or download our mobile app from the App Store or Google
-                        Play.
+                        Many applicants see loan options within minutes. Once approved, funds are usually available the same day or by the next business day.
                       </p>
                     </div>
                   </div>
@@ -520,7 +453,7 @@ const FAQOne: React.FC = () => {
                       aria-expanded='false'
                       aria-controls='collapseThree3'
                     >
-                      What fees should I expect?
+                      When do I need to repay my loan?
                     </button>
                   </h2>
                   <div
@@ -530,11 +463,7 @@ const FAQOne: React.FC = () => {
                   >
                     <div className='accordion-body'>
                       <p className='fw-normal tw-text-lg text-dark-600'>
-                        To access online and mobile banking, simply log in using
-                        your registered email or phone number along with your
-                        secure password. You can use our website via any browser
-                        or download our mobile app from the App Store or Google
-                        Play.
+                       Loan repayments are set up as automatic monthly deductions from your checking account on the agreed date, making it simple and stress-free.
                       </p>
                     </div>
                   </div>
@@ -553,7 +482,7 @@ const FAQOne: React.FC = () => {
                       aria-expanded='false'
                       aria-controls='collapseFour3'
                     >
-                      What security measures protect my information?
+                      What happens if I miss a payment?
                     </button>
                   </h2>
                   <div
@@ -563,11 +492,7 @@ const FAQOne: React.FC = () => {
                   >
                     <div className='accordion-body'>
                       <p className='fw-normal tw-text-lg text-dark-600'>
-                        To access online and mobile banking, simply log in using
-                        your registered email or phone number along with your
-                        secure password. You can use our website via any browser
-                        or download our mobile app from the App Store or Google
-                        Play.
+                        If a payment is missed or delayed, contact us as soon as possible. We can help you adjust your repayment plan or provide guidance to minimize any extra fees.                        
                       </p>
                     </div>
                   </div>
@@ -596,7 +521,7 @@ const FAQOne: React.FC = () => {
                       aria-expanded='true'
                       aria-controls='collapseOneeee'
                     >
-                      What services do you offer?
+                     Will I have to pay any fees or interest?
                     </button>
                   </h2>
                   <div
@@ -606,11 +531,7 @@ const FAQOne: React.FC = () => {
                   >
                     <div className='accordion-body'>
                       <p className='fw-normal tw-text-lg text-dark-600'>
-                        To access online and mobile banking, simply log in using
-                        your registered email or phone number along with your
-                        secure password. You can use our website via any browser
-                        or download our mobile app from the App Store or Google
-                        Play.
+                        Loan fees and interest vary depending on your loan amount and lender terms. All charges are clearly shown upfront, so there are no hidden costs.
                       </p>
                     </div>
                   </div>
@@ -629,7 +550,7 @@ const FAQOne: React.FC = () => {
                       aria-expanded='false'
                       aria-controls='collapseTwoooo'
                     >
-                      How do I access online and mobile banking?
+                      Can I repay my loan early?
                     </button>
                   </h2>
                   <div
@@ -639,81 +560,13 @@ const FAQOne: React.FC = () => {
                   >
                     <div className='accordion-body'>
                       <p className='fw-normal tw-text-lg text-dark-600'>
-                        To access online and mobile banking, simply log in using
-                        your registered email or phone number along with your
-                        secure password. You can use our website via any browser
-                        or download our mobile app from the App Store or Google
+                        Yes! You can pay off your loan before the due date without any penalties. Early repayment may help you save on interest and finish your loan faster.
                         Play.
                       </p>
                     </div>
                   </div>
                 </div>
-                <div
-                  className='accordion-item tw-mb-6 rounded-3 bg-neutral-10 border-neutral-1px-solid'
-                  data-aos='fade-up'
-                  data-aos-duration={1000}
-                >
-                  <h2 className='accordion-header cursor-big position-relative z-2'>
-                    <button
-                      className='accordion-button collapsed bg-neutral-10 rounded-3 tw-text-xl tw-gap-1'
-                      type='button'
-                      data-bs-toggle='collapse'
-                      data-bs-target='#collapseThree4'
-                      aria-expanded='false'
-                      aria-controls='collapseThree4'
-                    >
-                      What fees should I expect? xxx
-                    </button>
-                  </h2>
-                  <div
-                    id='collapseThree4'
-                    className='accordion-collapse collapse'
-                    data-bs-parent='#accordionExample-four'
-                  >
-                    <div className='accordion-body'>
-                      <p className='fw-normal tw-text-lg text-dark-600'>
-                        To access online and mobile banking, simply log in using
-                        your registered email or phone number along with your
-                        secure password. You can use our website via any browser
-                        or download our mobile app from the App Store or Google
-                        Play.
-                      </p>
-                    </div>
-                  </div>
-                </div>
-                <div
-                  className='accordion-item tw-mb-6 rounded-3 bg-neutral-10 border-neutral-1px-solid'
-                  data-aos='fade-up'
-                  data-aos-duration={1200}
-                >
-                  <h2 className='accordion-header cursor-big position-relative z-2'>
-                    <button
-                      className='accordion-button collapsed bg-neutral-10 rounded-3 tw-text-xl tw-gap-1'
-                      type='button'
-                      data-bs-toggle='collapse'
-                      data-bs-target='#collapseFour4'
-                      aria-expanded='false'
-                      aria-controls='collapseFour4'
-                    >
-                      What security measures protect my information?
-                    </button>
-                  </h2>
-                  <div
-                    id='collapseFour4'
-                    className='accordion-collapse collapse'
-                    data-bs-parent='#accordionExample-four'
-                  >
-                    <div className='accordion-body'>
-                      <p className='fw-normal tw-text-lg text-dark-600'>
-                        To access online and mobile banking, simply log in using
-                        your registered email or phone number along with your
-                        secure password. You can use our website via any browser
-                        or download our mobile app from the App Store or Google
-                        Play.
-                      </p>
-                    </div>
-                  </div>
-                </div>
+
               </div>
             </div>
           </div>

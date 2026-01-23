@@ -61,15 +61,6 @@ const TopHeaderTwo: React.FC = () => {
               </ul>
             </div>
             <div>
-              <select className='text-dark-600 bg-transparent border-0 fw-semibold text-4 focus-visible-border-main-600'>
-                <option value={1}>ENG</option>
-                <option value={2}>SPA</option>
-                <option value={3}>BAN</option>
-                <option value={4}>FRA</option>
-                <option value={5}>PAK</option>
-                <option value={6}>AUS</option>
-                <option value={7}>CAN</option>
-              </select>
             </div>
           </div>
         </div>

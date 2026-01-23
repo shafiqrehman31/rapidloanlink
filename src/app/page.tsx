@@ -6,34 +6,37 @@ import BannerOne from "@/components/BannerOne";
 import AOSWrap from "@/helper/AOSWrap";
 import OurFeatureOne from "@/components/OurFeatureOne";
 import PaynoneOne from "@/components/PaynoneOne";
-import ServicesOne from "@/components/ServicesOne";
-import RequestSectionOne from "@/components/RequestSectionOne";
 import WorkingSectionOne from "@/components/WorkingSectionOne";
-import MobileSectionOne from "@/components/MobileSectionOne";
 import TestimonialsOne from "@/components/TestimonialsOne";
 import FAQOne from "@/components/FAQOne";
+/*
 import PaymentMethodOne from "@/components/PaymentMethodOne";
 import BlogOne from "@/components/BlogOne";
 import NewsletterOne from "@/components/NewsletterOne";
+import MobileSectionOne from "@/components/MobileSectionOne";
+import RequestSectionOne from "@/components/RequestSectionOne";
+import ServicesOne from "@/components/ServicesOne";
+
+*/
 import FooterOne from "@/components/FooterOne";
 
 export const generateMetadata = async (): Promise<Metadata> => {
   return {
-    title: "Home | PayOne Money Exchange Next JS Template",
+    title: "Home | RapidLoanLink",
     description:
-      "PayOne is a professional Next JS Template for online money exchange, remittance, and digital payment services. Clean design, responsive layout, and modern UI components included.",
+      "RapidLoanLink offers fast and reliable loans from $100 to $5,000. Apply online, get quick approval, and access funds securely with clear terms and no hidden fees.",
     openGraph: {
-      title: "Home | PayOne",
+      title: "Home | RapidLoanLink",
       description:
-        "PayOne is a professional Next JS Template for online money exchange, remittance, and digital payment services. Clean design, responsive layout, and modern UI components included.",
-      url: "https://nextjs.payone.wowtheme7.com",
+        "RapidLoanLink provides fast, simple, and secure loans. Borrow from $100 to $5,000, enjoy quick approval, and receive funds directly in your bank account.",
+      url: "https://www.rapidloanlink.com",
       type: "website",
       images: [
         {
-          url: "https://nextjs.payone.wowtheme7.com/images/meta.png",
+          url: "https://www.rapidloanlink.com/images/meta.png",
           width: 1200,
           height: 630,
-          alt: "PayOne",
+          alt: "RapidLoanLink - Fast Loans Online",
         },
       ],
     },
@@ -62,16 +65,16 @@ export default function Home() {
       <PaynoneOne />
 
       {/* ServicesOne */}
-      <ServicesOne />
+      {/*<ServicesOne />*/}
 
       {/* RequestSectionOne */}
-      <RequestSectionOne />
+      {/*<RequestSectionOne />*/}
 
       {/* WorkingSectionOne */}
-      <WorkingSectionOne />
+     <WorkingSectionOne />
 
       {/* MobileSectionOne */}
-      <MobileSectionOne />
+       {/*<MobileSectionOne />*/}
 
       {/* TestimonialsOne */}
       <TestimonialsOne />
@@ -80,13 +83,13 @@ export default function Home() {
       <FAQOne />
 
       {/* PaymentMethodOne */}
-      <PaymentMethodOne />
+      {/* <PaymentMethodOne />*/}
 
       {/* BlogOne */}
-      <BlogOne />
+      {/*<BlogOne />*/}
 
       {/* NewsletterOne */}
-      <NewsletterOne />
+      {/*<NewsletterOne />*/}
 
       {/* FooterOne */}
       <FooterOne />

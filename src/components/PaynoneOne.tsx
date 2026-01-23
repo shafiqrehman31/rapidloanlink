@@ -7,18 +7,18 @@ const PaynoneOne: React.FC = () => {
         <div className='paynone-item margin-block-start-60px'>
           <div className='text-center justify-content-center align-items-center'>
             <h2
-              className='paynone-title tw-text-80-px fw-normal text-dark-600 tw-mb-3 cursor-big'
+              className='fw-normal text-dark-600 tw-mb-3 cursor-big'
               data-aos='fade-up'
               data-aos-duration={800}
             >
-              WHY PAYONE
+              WHY RapidLoanLink
             </h2>
             <p
               className='max-w-322 text-dark-500 tw-text-lg fw-normal mx-auto'
               data-aos='fade-up'
               data-aos-duration={1000}
             >
-              PayOne is constantly growing for a World without high fees.
+              Fast, simple, and reliable loans when you need them
             </p>
           </div>
         </div>
@@ -31,11 +31,10 @@ const PaynoneOne: React.FC = () => {
             >
               <div className='max-w-212 text-center justify-content-center align-items-center mx-auto'>
                 <h4 className='fw-normal text-dark-600 tw-mb-6 cursor-big'>
-                  One Contract, One Integration
+                  Fast & Easy Loan Process
                 </h4>
                 <p className='fw-normal tw-text-xl text-dark-600'>
-                  Don&apos;t get lost in papers! Easy registration, rapid
-                  integration!
+                  Apply online in just a few minutes for loans ranging from $100 to $5,000.
                 </p>
               </div>
             </div>
@@ -55,11 +54,10 @@ const PaynoneOne: React.FC = () => {
                   className='tw-text-80-px tw-mb-8'
                 />
                 <h5 className='fw-normal text-white tw-mb-6 cursor-big'>
-                  No app juggling!
+                 Clear & Transparent Terms
                 </h5>
                 <p className='fw-normal tw-text-xl text-white'>
-                  No card or payment details insertion. Start and finish at the
-                  same place!
+                 No hidden fees, no surprises. We provide clear loan terms upfront so you always know what to expect before accepting your loan.
                 </p>
               </div>
             </div>
@@ -79,11 +77,10 @@ const PaynoneOne: React.FC = () => {
                   className='tw-text-80-px tw-mb-8'
                 />
                 <h5 className='fw-normal text-white tw-mb-6 cursor-big'>
-                  Multi-device support
+                 Your Security Comes First
                 </h5>
                 <p className='fw-normal tw-text-xl text-white'>
-                  Delivery through multiple channels, including mobile, tablet
-                  and desktop.
+                  We protect your personal and financial information using secure technology, giving you peace of mind throughout the process.
                 </p>
               </div>
             </div>
@@ -96,56 +93,15 @@ const PaynoneOne: React.FC = () => {
             >
               <div className='max-w-212 text-center justify-content-center align-items-center mx-auto'>
                 <h4 className='fw-normal text-dark-600 tw-mb-6 cursor-big'>
-                  First-class Support
+                Flexible Loan Options
                 </h4>
                 <p className='fw-normal tw-text-xl text-dark-600'>
-                  Prompt and seamless service, provided by core competency
-                  experts.
+                  From small expenses to unexpected costs, our loans are designed to give you access to funds whenever you need them.
                 </p>
               </div>
             </div>
           </div>
-          <div className='col-xl-4 col-lg-4 col-md-6'>
-            <div
-              className='paynone-card-five max-w-307 payone-card tw-ps-7 tw-pe-8 tw-pt-12 tw-pb-10 bg-base-two-600 rounded-4 margin-inline-start-107px margin-block-start-176px'
-              data-aos='fade-up'
-              data-aos-duration={800}
-            >
-              <div className='max-w-246 text-center justify-content-center align-items-center mx-auto'>
-                <Image
-                  width={80}
-                  height={80}
-                  src='/assets/images/icon/payone-img3.png'
-                  alt='Image'
-                  className='tw-text-80-px tw-mb-8'
-                />
-                <h5 className='fw-normal text-white tw-mb-6 cursor-big'>
-                  Advanced Payer Verification
-                </h5>
-                <p className='fw-normal tw-text-xl text-white line-clamp-3'>
-                  Built on top of core banks KYC (Know Your Customer)
-                  procedures. Fraud risk is significantly reduced.
-                </p>
-              </div>
-            </div>
-          </div>
-          <div className='col-xl-4 col-lg-4 col-md-6'>
-            <div
-              className='paynone-card-six max-w-307 payone-card tw-px-8 py-80 bg-warning-500 rounded-4 margin-inline-start-100px margin-block-start--200px'
-              data-aos='fade-up'
-              data-aos-duration={800}
-            >
-              <div className='max-w-212 text-center justify-content-center align-items-center mx-auto'>
-                <h4 className='fw-normal text-dark-600 tw-mb-6 cursor-big'>
-                  Cost-effective payments
-                </h4>
-                <p className='fw-normal tw-text-xl text-dark-600'>
-                  Say goodbye to high card fees, say hello to affordable,
-                  seamless payments.
-                </p>
-              </div>
-            </div>
-          </div>
+
         </div>
       </div>
     </section>

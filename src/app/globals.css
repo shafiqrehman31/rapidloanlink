@@ -1,0 +1,24 @@
+:root {
+    --font-wendy-one: 'Wendy One', sans-serif;
+    --font-zen-maru: 'Zen Maru Gothic', sans-serif;
+}
+
+body {
+    font-family: var(--font-zen-maru);
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: var(--font-wendy-one);
+}
+
+p,
+span,
+a,
+li {
+    font-family: var(--font-zen-maru);
+}

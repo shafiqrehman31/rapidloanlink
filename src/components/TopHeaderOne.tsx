@@ -20,7 +20,7 @@ const TopHeaderOne: React.FC = () => {
                   <i className='ph-bold ph-envelope-simple' />
                 </span>
                 <span className='text-dark-600 fw-semibold'>
-                  paynone@gmail.com
+                  Contact@rapidloanlink.com
                 </span>
               </div>
             </div>
@@ -30,7 +30,7 @@ const TopHeaderOne: React.FC = () => {
               <ul className='d-flex align-items-center tw-gap-5 flex-wrap'>
                 <li>
                   <Link
-                    href='https://twitter-cl.vercel.app/login'
+                    href='#'
                     className='tw-text-xl text-dark-600'
                   >
                     <i className='ph-fill ph-twitter-logo' />
@@ -38,7 +38,7 @@ const TopHeaderOne: React.FC = () => {
                 </li>
                 <li>
                   <Link
-                    href='https://www.facebook.com'
+                    href='#'
                     className='tw-text-xl text-dark-600'
                   >
                     <i className='ph-bold ph-facebook-logo' />
@@ -46,7 +46,7 @@ const TopHeaderOne: React.FC = () => {
                 </li>
                 <li>
                   <Link
-                    href='https://www.linkedin.com/login'
+                    href='#'
                     className='tw-text-xl text-dark-600'
                   >
                     <i className='ph-bold ph-linkedin-logo' />
@@ -54,7 +54,7 @@ const TopHeaderOne: React.FC = () => {
                 </li>
                 <li>
                   <Link
-                    href='https://www.behance.net'
+                    href='#'
                     className='tw-text-xl text-dark-600'
                   >
                     <i className='ph-bold ph-behance-logo' />
@@ -63,15 +63,7 @@ const TopHeaderOne: React.FC = () => {
               </ul>
             </div>
             <div>
-              <select className='text-dark-600 bg-transparent border-0 fw-semibold text-4 focus-visible-border-main-600'>
-                <option value={1}>ENG</option>
-                <option value={1}>SPA</option>
-                <option value={1}>BAN</option>
-                <option value={1}>FRA</option>
-                <option value={1}>PAK</option>
-                <option value={1}>AUS</option>
-                <option value={1}>CAN</option>
-              </select>
+       
             </div>
           </div>
         </div>

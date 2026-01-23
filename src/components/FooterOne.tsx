@@ -23,8 +23,7 @@ const FooterOne: React.FC = () => {
                   />
                 </Link>
                 <p className='fw-normal tw-text-lg text-neutral-10 tw-mb-8'>
-                  We’ve got the perfect tools for your success. Join us today
-                  and empower toward excellence.
+                  Fast Loans, Clear Terms, Peace of Mind.
                 </p>
                 <ul className='d-flex align-items-center tw-gap-5'>
                   <li>
@@ -78,27 +77,27 @@ const FooterOne: React.FC = () => {
                 <ul>
                   <li className='tw-mb-4'>
                     <Link
+                      href='/'
+                      className='fw-normal tw-text-lg text-neutral-10 hover-text-main-600'
+                    >
+                      Home
+                    </Link>
+                  </li>
+                  <li className='tw-mb-4'>
+                    <Link
                       href='/about-us'
                       className='fw-normal tw-text-lg text-neutral-10 hover-text-main-600'
                     >
                       About Us
                     </Link>
-                  </li>
+                  </li>                 
                   <li className='tw-mb-4'>
                     <a
-                      href='#'
-                      className='fw-normal tw-text-lg text-neutral-10 hover-text-main-600'
-                    >
-                      Payment
-                    </a>
-                  </li>
-                  <li className='tw-mb-4'>
-                    <Link
                       href='/faq'
                       className='fw-normal tw-text-lg text-neutral-10 hover-text-main-600'
                     >
-                      Faqs
-                    </Link>
+                      FAQ
+                    </a>
                   </li>
                   <li className='tw-mb-4'>
                     <Link
@@ -114,7 +113,7 @@ const FooterOne: React.FC = () => {
             <div className='col-lg-2 col-md-4 col-sm-6'>
               <div data-aos='fade-up' data-aos-duration={1000}>
                 <h4 className='text-white fw-normal tw-mb-10 cursor-big'>
-                  Our Services
+                  Important Links
                 </h4>
                 <ul>
                   <li className='tw-mb-4'>
@@ -122,7 +121,8 @@ const FooterOne: React.FC = () => {
                       href='#'
                       className='fw-normal tw-text-lg text-neutral-10 hover-text-main-600'
                     >
-                      Transfer Money
+                     Terms and Conditions
+
                     </a>
                   </li>
                   <li className='tw-mb-4'>
@@ -130,7 +130,8 @@ const FooterOne: React.FC = () => {
                       href='#'
                       className='fw-normal tw-text-lg text-neutral-10 hover-text-main-600'
                     >
-                      Saving Account
+                      Privacy Policy
+
                     </a>
                   </li>
                   <li className='tw-mb-4'>
@@ -138,7 +139,8 @@ const FooterOne: React.FC = () => {
                       href='#'
                       className='fw-normal tw-text-lg text-neutral-10 hover-text-main-600'
                     >
-                      Online Shopping
+                      California Privacy Notice
+
                     </a>
                   </li>
                   <li className='tw-mb-4'>
@@ -146,7 +148,7 @@ const FooterOne: React.FC = () => {
                       href='#'
                       className='fw-normal tw-text-lg text-neutral-10 hover-text-main-600'
                     >
-                      Pay Bills
+                      Before you Apply
                     </a>
                   </li>
                 </ul>
@@ -164,11 +166,8 @@ const FooterOne: React.FC = () => {
                 <p className='fw-normal tw-text-lg text-neutral-10 tw-mb-705'>
                   3891 Ranch view Dr. Richardson, California 62639
                 </p>
-                <h5 className='fw-bold text-neutral-10 tw-mb-3 cursor-big'>
-                  (702) 555-0122
-                </h5>
                 <span className='tw-text-lg fw-normal text-neutral-10'>
-                  kenzi.lawson@example.com
+                  info@rapidloanlink.com
                 </span>
               </div>
             </div>
@@ -178,10 +177,10 @@ const FooterOne: React.FC = () => {
         <div className='tw-mb-10 border-top-dark-500 tw-pt-6'>
           <div className='d-flex align-items-center justify-content-between tw-gap-4 flex-wrap'>
             <p className='fw-semibold tw-text-lg text-white'>
-              Copyright @ {new Date().getFullYear()} PayOne
+              Copyright @ {new Date().getFullYear()} Rapid Loan Link
             </p>
             <span className='fw-semibold tw-text-lg text-white'>
-              Designed By <span className='text-main-600'>wowtheme7</span>
+              Designed By <span className='text-main-600'>Rapid Loan Link</span>
             </span>
           </div>
         </div>

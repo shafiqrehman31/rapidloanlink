@@ -19,14 +19,14 @@ const OurFeatureOne: React.FC = () => {
                   src='/assets/images/icon/star-icon2.png'
                   alt='Image'
                 />
-                <h5 className='text-primary-600 fw-normal'> Our Features</h5>
+                <h5 className='text-primary-600 fw-normal'> Welcome to RapidLoanLink</h5>
               </div>
               <h2
-                className='fw-normal text-dark-600 h1 cursor-big'
+                className='fw-normal text-dark-600 h3 cursor-big'
                 data-aos='fade-up'
                 data-aos-duration={1000}
               >
-                PayOne Features
+                Fast and Stress-Free Loan Solutions
               </h2>
             </div>
             <div className='max-w-400'>
@@ -35,8 +35,8 @@ const OurFeatureOne: React.FC = () => {
                 data-aos='fade-up'
                 data-aos-duration={1200}
               >
-                Reliable, secure, fast, global, convenient, trusted, seamless,
-                innovative.
+              At <b>RapidLoanLink</b>, we help you access fast and reliable loan options without the stress. Our process is built to be simple, secure, and transparent.
+                
               </p>
             </div>
           </div>
@@ -59,11 +59,10 @@ const OurFeatureOne: React.FC = () => {
                     </span>
                   </span>
                   <h5 className='fw-normal text-dark-600 tw-mb-2 cursor-big'>
-                    Global Money Transfers
+                    Fast Approvals
                   </h5>
                   <p className='fw-normal tw-text-lg text-dark-500'>
-                    Send and receive payments worldwide with ease, speed, and
-                    top-tier security.
+                    Apply online and receive quick decisions without long waiting times.
                   </p>
                 </div>
                 <div
@@ -82,11 +81,10 @@ const OurFeatureOne: React.FC = () => {
                     </span>
                   </span>
                   <h5 className='fw-normal text-dark-600 tw-mb-2 cursor-big'>
-                    Robust Data Protection
+                   Flexible Loan Amounts
                   </h5>
                   <p className='fw-normal tw-text-lg text-dark-500'>
-                    Your data is encrypted, ensuring secure transactions and
-                    absolute privacy protection.
+                    Borrow anywhere from $100 up to $5,000, based on your needs.
                   </p>
                 </div>
                 <div className='' data-aos='fade-up' data-aos-duration={1200}>
@@ -101,11 +99,28 @@ const OurFeatureOne: React.FC = () => {
                     </span>
                   </span>
                   <h5 className='fw-normal text-dark-600 tw-mb-2 cursor-big'>
-                    Fair &amp; Honest Transactions
+                    Simple Online Process
                   </h5>
                   <p className='fw-normal tw-text-lg text-dark-500'>
-                    Enjoy fully transparent transactions with no hidden fees or
-                    unexpected extra charges.
+                    No complicated steps everything is handled digitally and securely.
+                  </p>
+                </div>
+                  <div className='' data-aos='fade-up' data-aos-duration={1400}>
+                  <span className='tw-w-72px tw-h-72-px border-base-two-600 d-flex align-items-center justify-content-center rounded-3 tw-mb-6'>
+                    <span className='w-15 h-15 bg-base-two-10 rounded-3 d-flex align-items-center justify-content-center'>
+                      <Image
+                        width={40}
+                        height={40}
+                        src='/assets/images/icon/our-feature-icon3.png'
+                        alt='Image'
+                      />
+                    </span>
+                  </span>
+                  <h5 className='fw-normal text-dark-600 tw-mb-2 cursor-big'>
+                   Funds Sent Directly
+                  </h5>
+                  <p className='fw-normal tw-text-lg text-dark-500'>
+                   Approved loan amounts are transferred straight to your bank account.
                   </p>
                 </div>
               </div>
@@ -116,7 +131,7 @@ const OurFeatureOne: React.FC = () => {
                   <Image
                     width={746}
                     height={705}
-                    src='/assets/images/thumbs/our-feature-img1.png'
+                    src='/assets/images/thumbs/our-feature.png'
                     alt='Image'
                     data-aos='zoom-in'
                     data-aos-duration={1200}
@@ -155,10 +170,10 @@ const OurFeatureOne: React.FC = () => {
                     <div>
                       <h3 className='fw-normal text-dark-600 mb-1 cursor-big counter'>
                         {/* CounterView */}
-                        <CounterView start={0} end={11} title='K' />
+                        <CounterView start={0} end={75} title='K' />
                       </h3>
                       <span className='fw-normal tw-text-lg text-dark-500'>
-                        Banking Card available
+                        Daily Payments
                       </span>
                     </div>
                   </div>

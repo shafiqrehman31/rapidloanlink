@@ -1,7 +1,7 @@
 import Marquee from "react-fast-marquee";
 import Image from "next/image";
 import CounterView from "@/helper/CounterView";
-import PopupVideoOne from "@/components/popup/PopupVideoOne";
+/*import PopupVideoOne from "@/components/popup/PopupVideoOne";*/
 
 const BannerOne: React.FC = () => {
   return (
@@ -39,7 +39,7 @@ const BannerOne: React.FC = () => {
                         height={30}
                       />
                       <span className='fw-normal tw-text-xl text-neutral-10 cursor-big'>
-                        EASY PAYMENT
+                        Rapaid Loan Link
                       </span>
                     </div>
                     <div
@@ -48,7 +48,7 @@ const BannerOne: React.FC = () => {
                       data-aos-duration={1000}
                     >
                       <h2 className='banner-item-title text-neutral-10 fw-normal tw-mb-3 tw-text-15 cursor-big h1'>
-                        Fast, Secure, &amp; Easy Transactions.
+                         Need Cash Without  Delays?
                       </h2>
                       <Image
                         src='/assets/images/shape/line-shape1.png'
@@ -63,8 +63,7 @@ const BannerOne: React.FC = () => {
                       data-aos='fade-up'
                       data-aos-duration={1100}
                     >
-                      Effortlessly send, receive, and request money online with
-                      paynone. Get a tailored solution for your business needs.
+                     Loan amounts from $100 to $5,000, designed for real life.
                     </p>
                   </div>
                   <div
@@ -74,21 +73,13 @@ const BannerOne: React.FC = () => {
                   >
                     <div className='max-w-248-px position-relative w-100'>
                       <a
-                        href='#'
+                        href='/apply-loan'
                         className='banner-item-link bg-main-600 text-dark-600 fw-semibold w-100 tw-py-3 text-center tw-text-lg border-two-px-solid rounded-3 hover-text-dark-600 tw-duration-500'
                       >
-                        MAKE AN APPOINTMENT
+                       Apply For Loan
                       </a>
                     </div>
-                    <div className='d-flex align-items-center tw-gap-10 flex-wrap'>
-                      <span className='text-neutral-10 fw-semibold tw-text-lg'>
-                        WATCH VIDEO
-                      </span>
-                      <div className='position-relative'>
-                        {/* PopupVideoOne */}
-                        <PopupVideoOne />
-                      </div>
-                    </div>
+                   
                   </div>
                 </div>
               </div>
@@ -101,7 +92,7 @@ const BannerOne: React.FC = () => {
                   <Image
                     width={544}
                     height={684}
-                    src='/assets/images/thumbs/banner-img1.png'
+                    src='/assets/images/thumbs/hero-section-01.png'
                     alt='img'
                     className='margin-top--40px'
                   />
@@ -112,20 +103,20 @@ const BannerOne: React.FC = () => {
               <div className='bg-white tw-py-5 tw-px-5 rounded-3 d-inline-flex align-items-center tw-gap-3 position-absolute inset-block-start-70-persent inset-inline-start-42-persent z-1 max-w-263 animation-Updowm__two'>
                 <div className='d-flex align-items-center '>
                   <Image
-                    src='/assets/images/thumbs/banner-img4.png'
+                    src='/assets/images/thumbs/hero-section-02.png'
                     alt='img'
                     width={48}
                     height={49}
                   />
                   <Image
-                    src='/assets/images/thumbs/banner-img3.png'
+                    src='/assets/images/thumbs/hero-section-03.png'
                     width={48}
                     height={49}
                     alt='img'
                     className='margin-left--16px'
                   />
                   <Image
-                    src='/assets/images/thumbs/banner-img2.png'
+                    src='/assets/images/thumbs/hero-section-04.png'
                     width={48}
                     height={49}
                     alt='img'
@@ -203,14 +194,14 @@ const BannerOne: React.FC = () => {
               data-aos='fade-up'
               data-aos-duration={1000}
             >
-              companies who’ve reached
+              Customers who’ve reached
             </h5>
             <div className='swiper banner-brand-swiper overflow-hidden z-1'>
               <div className='swiper-wrapper d-flex align-items-center w-100'>
                 <Marquee>
                   <div className='px-4'>
                     <Image
-                      src='/assets/images/logo/banner-slider-img1.png'
+                      src='/assets/images/logo/1.png'
                       width={146}
                       height={60}
                       alt='Image'
@@ -218,7 +209,7 @@ const BannerOne: React.FC = () => {
                   </div>
                   <div className='px-4'>
                     <Image
-                      src='/assets/images/logo/banner-slider-img2.png'
+                      src='/assets/images/logo/2.png'
                       width={150}
                       height={60}
                       alt='Image'
@@ -226,31 +217,34 @@ const BannerOne: React.FC = () => {
                   </div>
                   <div className='px-4'>
                     <Image
-                      src='/assets/images/logo/banner-slider-img3.png'
+                      src='/assets/images/logo/3.png'
                       width={168}
                       height={60}
                       alt='Image'
                     />
                   </div>
                   <div className='px-4'>
+                  
                     <Image
-                      src='/assets/images/logo/banner-slider-img4.png'
+                      src='/assets/images/logo/4.png'
                       width={157}
                       height={60}
                       alt='Image'
                     />
                   </div>
                   <div className='px-4'>
+                 
                     <Image
-                      src='/assets/images/logo/banner-slider-img5.png'
+                      src='/assets/images/logo/5.png'
                       width={148}
                       height={60}
                       alt='Image'
                     />
                   </div>
                   <div className='px-4'>
+                  
                     <Image
-                      src='/assets/images/logo/banner-slider-img6.png'
+                      src='/assets/images/logo/6.png'
                       width={168}
                       height={60}
                       alt='Image'
@@ -258,7 +252,7 @@ const BannerOne: React.FC = () => {
                   </div>
                   <div className='px-4'>
                     <Image
-                      src='/assets/images/logo/banner-slider-img7.png'
+                      src='/assets/images/logo/7.png'
                       width={168}
                       height={60}
                       alt='Image'
@@ -266,7 +260,7 @@ const BannerOne: React.FC = () => {
                   </div>
                   <div className='px-4'>
                     <Image
-                      src='/assets/images/logo/banner-slider-img4.png'
+                      src='/assets/images/logo/8.png'
                       width={157}
                       height={60}
                       alt='Image'
