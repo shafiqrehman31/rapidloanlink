@@ -118,7 +118,7 @@ const FooterOne: React.FC = () => {
                 <ul>
                   <li className='tw-mb-4'>
                     <a
-                      href='#'
+                      href='/terms-and-conditions'
                       className='fw-normal tw-text-lg text-neutral-10 hover-text-main-600'
                     >
                      Terms and Conditions
@@ -127,7 +127,7 @@ const FooterOne: React.FC = () => {
                   </li>
                   <li className='tw-mb-4'>
                     <a
-                      href='#'
+                      href='/privacy-policy'
                       className='fw-normal tw-text-lg text-neutral-10 hover-text-main-600'
                     >
                       Privacy Policy
@@ -136,7 +136,7 @@ const FooterOne: React.FC = () => {
                   </li>
                   <li className='tw-mb-4'>
                     <a
-                      href='#'
+                      href='/california-privacy'
                       className='fw-normal tw-text-lg text-neutral-10 hover-text-main-600'
                     >
                       California Privacy Notice
@@ -145,7 +145,7 @@ const FooterOne: React.FC = () => {
                   </li>
                   <li className='tw-mb-4'>
                     <a
-                      href='#'
+                      href='/before-you-apply'
                       className='fw-normal tw-text-lg text-neutral-10 hover-text-main-600'
                     >
                       Before you Apply
@@ -164,7 +164,7 @@ const FooterOne: React.FC = () => {
                   Contact Us
                 </h4>
                 <p className='fw-normal tw-text-lg text-neutral-10 tw-mb-705'>
-                  3891 Ranch view Dr. Richardson, California 62639
+                  165 Broadway New York City NY 10006
                 </p>
                 <span className='tw-text-lg fw-normal text-neutral-10'>
                   info@rapidloanlink.com

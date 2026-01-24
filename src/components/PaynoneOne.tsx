@@ -11,7 +11,7 @@ const PaynoneOne: React.FC = () => {
               data-aos='fade-up'
               data-aos-duration={800}
             >
-              WHY RapidLoanLink
+              WHY Rapid Loan Link
             </h2>
             <p
               className='max-w-322 text-dark-500 tw-text-lg fw-normal mx-auto'

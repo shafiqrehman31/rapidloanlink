@@ -7,24 +7,7 @@ const ContactInner: React.FC = () => {
     <section className='bg-neutral-10 py-140 '>
       <div className='container'>
         <div className='row gy-4 tw-mb-15'>
-          <div className='col-lg-4 col-md-6'>
-            <div className='group' data-aos='fade-up' data-aos-duration={600}>
-              <div className='bg-white tw-py-10 tw-rounded-xl group-hover-bg-base-two-600 tw-duration-500'>
-                <span className='tw-w-72-px tw-h-72-px bg-base-two-600 tw-text-8 text-white d-flex align-items-center justify-content-center tw-mb-6 rounded-circle mx-auto group-hover-bg-white tw-duration-500 group-hover-text-base-two-600'>
-                  <i className='ph ph-phone-call' />
-                </span>
-                <div className='text-center'>
-                  <h4 className='fw-normal text-dark-600 tw-mb-2 tw-duration-500 group-hover-text-white'>
-                    Call US 24/7
-                  </h4>
-                  <span className='fw-normal tw-text-lg text-dark-500 tw-duration-500 group-hover-text-white '>
-                    (205) 555-0100
-                  </span>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div className='col-lg-4 col-md-6'>
+          <div className='col-lg-6 col-md-6'>
             <div className='group' data-aos='fade-up' data-aos-duration={800}>
               <div className='bg-white tw-py-10 tw-rounded-xl group-hover-bg-base-two-600 tw-duration-500'>
                 <span className='tw-w-72-px tw-h-72-px bg-base-two-600 tw-text-8 text-white d-flex align-items-center justify-content-center tw-mb-6 rounded-circle mx-auto group-hover-bg-white tw-duration-500 group-hover-text-base-two-600'>
@@ -35,13 +18,13 @@ const ContactInner: React.FC = () => {
                     Email Us Anytime
                   </h4>
                   <span className='fw-normal tw-text-lg text-dark-500 tw-duration-500 group-hover-text-white '>
-                    zigor.amara@redviet.com
+                    info@rapidloanlink.com
                   </span>
                 </div>
               </div>
             </div>
           </div>
-          <div className='col-lg-4 col-md-6'>
+          <div className='col-lg-6 col-md-6'>
             <div className='group' data-aos='fade-up' data-aos-duration={1000}>
               <div className='bg-white tw-py-10 tw-rounded-xl group-hover-bg-base-two-600 tw-duration-500'>
                 <span className='tw-w-72-px tw-h-72-px bg-base-two-600 tw-text-8 text-white d-flex align-items-center justify-content-center tw-mb-6 rounded-circle mx-auto group-hover-bg-white tw-duration-500 group-hover-text-base-two-600'>
@@ -52,7 +35,7 @@ const ContactInner: React.FC = () => {
                     Our Location
                   </h4>
                   <span className='fw-normal tw-text-lg text-dark-500 tw-duration-500 group-hover-text-white '>
-                    SPACEX Hawthorne, CA
+                    165 Broadway New York City NY 10006
                   </span>
                 </div>
               </div>

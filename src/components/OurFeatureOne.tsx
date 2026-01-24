@@ -19,7 +19,7 @@ const OurFeatureOne: React.FC = () => {
                   src='/assets/images/icon/star-icon2.png'
                   alt='Image'
                 />
-                <h5 className='text-primary-600 fw-normal'> Welcome to RapidLoanLink</h5>
+                <h5 className='text-primary-600 fw-normal'> Welcome to Rapid Loan Link</h5>
               </div>
               <h2
                 className='fw-normal text-dark-600 h3 cursor-big'
@@ -35,7 +35,7 @@ const OurFeatureOne: React.FC = () => {
                 data-aos='fade-up'
                 data-aos-duration={1200}
               >
-              At <b>RapidLoanLink</b>, we help you access fast and reliable loan options without the stress. Our process is built to be simple, secure, and transparent.
+              At <b>Rapid Loan Link</b>, we help you access fast and reliable loan options without the stress. Our process is built to be simple, secure, and transparent.
                 
               </p>
             </div>

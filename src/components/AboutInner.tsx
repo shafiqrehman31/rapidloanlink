@@ -25,7 +25,7 @@ const AboutInner: React.FC = () => {
               data-aos='fade-up'
               data-aos-duration={800}
             >
-              Transfer &amp; Deposite Money Anytime, Anywhere In The World
+              We have access to 100s of lenders and provide you the best available option suited to your needs
             </h2>
           </div>
           <div className='max-w-306'>
@@ -34,7 +34,7 @@ const AboutInner: React.FC = () => {
               data-aos='fade-up'
               data-aos-duration={1000}
             >
-             Apply online today and see how simple getting a loan can be with RapidLoanLink.{" "}
+             Apply online today and see how simple getting a loan can be with Rapid Loan Link.{" "}
             </p>
             <div
               className='max-w-181 position-relative'
@@ -69,6 +69,7 @@ const AboutInner: React.FC = () => {
                     <i className='ph ph-check-circle' />
                   </span>
                   <span className='fw-normal tw-text-lg text-dark-600'>
+                  Bad credit OK
                    {/** User-Friendly Mobile App*/} 
                   </span>
                 </div>
@@ -77,6 +78,7 @@ const AboutInner: React.FC = () => {
                     <i className='ph ph-check-circle' />
                   </span>
                   <span className='fw-normal tw-text-lg text-dark-600'>
+                  Start online
                     {/**Secure Online Banking*/}
                   </span>
                 </div>
@@ -85,6 +87,7 @@ const AboutInner: React.FC = () => {
                     <i className='ph ph-check-circle' />
                   </span>
                   <span className='fw-normal tw-text-lg text-dark-600'>
+                  Withdraw cash in Your A/c
                     {/**Personalized Financial Solutions */}
                   </span>
                 </div>
@@ -93,6 +96,16 @@ const AboutInner: React.FC = () => {
                     <i className='ph ph-check-circle' />
                   </span>
                   <span className='fw-normal tw-text-lg text-dark-600'>
+                  Global Presence
+                    {/**Assistance with Technical Issues */}
+                  </span>
+                </div>
+                <div className='d-flex align-items-center tw-gap-2 tw-mb-3'>
+                  <span className='tw-text-6 text-base-two-600'>
+                    <i className='ph ph-check-circle' />
+                  </span>
+                  <span className='fw-normal tw-text-lg text-dark-600'>
+                  Achieve Goal
                     {/**Assistance with Technical Issues */}
                   </span>
                 </div>
@@ -141,7 +154,7 @@ const AboutInner: React.FC = () => {
                   >
                     <div className='accordion-body'>
                       <p className='fw-normal tw-text-lg text-dark-700'>
-                       At RapidLoanLink, we streamline the loan application process by keeping it simple and user-friendly. From submitting your request to receiving funds, everything is designed to save you time and effort. Loan amounts range from $100 to $5,000, making it easier to handle everyday needs and unexpected costs.
+                       At Rapid Loan Link, we streamline the loan application process by keeping it simple and user-friendly. From submitting your request to receiving funds, everything is designed to save you time and effort. Loan amounts range from $100 to $5,000, making it easier to handle everyday needs and unexpected costs.
                       </p>
                     </div>
                   </div>
@@ -166,7 +179,7 @@ const AboutInner: React.FC = () => {
                   >
                     <div className='accordion-body'>
                       <p className='fw-normal tw-text-lg text-white'>
-                       RapidLoanLink is an online platform built to make getting a loan simple, fast, and stress-free. We understand that unexpected expenses can happen at any time, which is why our goal is to provide quick access to loan options through a smooth and secure digital experience.{" "}
+                       Rapid Loan Link is an online platform built to make getting a loan simple, fast, and stress-free. We understand that unexpected expenses can happen at any time, which is why our goal is to provide quick access to loan options through a smooth and secure digital experience.{" "}
                       </p>
                     </div>
                   </div>
@@ -191,7 +204,7 @@ const AboutInner: React.FC = () => {
                   >
                     <div className='accordion-body'>
                       <p className='fw-normal tw-text-lg text-dark-700'>
-                        Traditional borrowing can feel overwhelming. Complicated forms, long wait times, and unclear terms often create frustration. RapidLoanLink was created to change that—offering a clear, online solution that puts control back in your hands.{" "}
+                        Traditional borrowing can feel overwhelming. Complicated forms, long wait times, and unclear terms often create frustration. Rapid Loan Link was created to change that—offering a clear, online solution that puts control back in your hands.{" "}
                       </p>
                     </div>
                   </div>

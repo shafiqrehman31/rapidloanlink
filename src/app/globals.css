@@ -27,3 +27,12 @@ li {
     padding-left: 15px;
     padding-right: 15px;
 }
+
+.h5-c {
+    color: #FFF !important;
+}
+
+.tw-h-10 {
+    height: 3.0rem;
+    min-width: 270px !important;
+}

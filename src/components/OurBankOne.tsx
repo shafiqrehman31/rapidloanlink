@@ -95,7 +95,7 @@ const OurBankOne: React.FC = () => {
                   data-aos='fade-up'
                   data-aos-duration={800}
                 >
-                  Get Fast & Secure Online Loans with RapidLoanLink
+                  Get Fast & Secure Online Loans with Rapid Loan Link
                 </h2>
                 <p
                   className='fw-normal tw-text-lg text-dark-500 tw-mb-8'
@@ -137,17 +137,16 @@ const OurBankOne: React.FC = () => {
                         <span className='tw-pt-605 tw-ps-605'>
                           <span className='tw-w-72px tw-h-72-px border-base-two-100 rounded-3 d-flex align-items-center justify-content-center tw-mb-805'>
                             <span className='w-15 h-15 bg-base-two-10 rounded-3 d-flex align-items-center justify-content-center group-hover-bg-base-two-600 tw-duration-400 group-hover-text-main-600 tw-text-10 text-base-two-600'>
-                              <i className='ph ph-device-mobile' />
+                              <i className='ph ph-handshake' />
                             </span>
                           </span>
                         </span>
                         <div className='tw-px-8 tw-pb-10'>
                           <h4 className='fw-normal tw-mb-3 text-dark-600 line-clamp-2'>
-                            Mobile Banking
+                            Trust-Building
                           </h4>
                           <p className='fw-normal tw-text-4 text-dark-500 line-clamp-4'>
-                            Access your accounts, monitor transactions securely
-                            from your mobile device.
+                            Your Trusted Partner for Fast Online Loans
                           </p>
                         </div>
                       </div>
@@ -170,88 +169,22 @@ const OurBankOne: React.FC = () => {
                         <span className='tw-pt-605 tw-ps-605'>
                           <span className='tw-w-72px tw-h-72-px border-base-two-100 rounded-3 d-flex align-items-center justify-content-center tw-mb-805'>
                             <span className='w-15 h-15 bg-base-two-10 rounded-3 d-flex align-items-center justify-content-center group-hover-bg-base-two-600 tw-duration-400 group-hover-text-main-600 tw-text-10 text-base-two-600'>
-                              <i className='ph ph-shield-check' />
+                              <i className='ph ph-rocket' />
                             </span>
                           </span>
                         </span>
                         <div className='tw-px-8 tw-pb-10'>
                           <h4 className='fw-normal tw-mb-3 text-dark-600 line-clamp-2'>
-                            Secure Payment
+                            Speed + Convenience
                           </h4>
                           <p className='fw-normal tw-text-4 text-dark-500 line-clamp-4'>
-                            Ensuring secure payments is our top priority. We
-                            employ advanced encryption, multi-factor{" "}
+                            Get Approved Fast with Secure <br></br>Online Loans{" "}
                           </p>
                         </div>
                       </div>
                     </div>
                   </div>
-                  <div
-                    className='swiper-slide'
-                    data-aos='fade-up'
-                    data-aos-duration={1000}
-                  >
-                    <div className='our-services-card-three position-relative group group-item'>
-                      <div className='bg-white rounded-4 w-100 group-hover-border-dark-600 tw-duration-400'>
-                        <span className='circle-shape-three position-absolute tw-transition-03-secend inset-inline-end-0px inset-block-start-0px tw-w-72px tw-h-72-px bg-neutral-10 rounded-circle' />
-                        <button
-                          type='button'
-                          className='group-hover-bg-main-600 tw-duration-400 our-services-button w-16 h-16 bg-white rounded-circle tw-text-8 text-dark-600 d-flex align-items-center justify-content-center position-absolute inset-block-start-0px inset-inline-end-0px'
-                        >
-                          <i className='ph-bold ph-arrow-up-right' />
-                        </button>
-                        <span className='tw-pt-605 tw-ps-605'>
-                          <span className='tw-w-72px tw-h-72-px border-base-two-100 rounded-3 d-flex align-items-center justify-content-center tw-mb-805'>
-                            <span className='w-15 h-15 bg-base-two-10 rounded-3 d-flex align-items-center justify-content-center group-hover-bg-base-two-600 tw-duration-400 group-hover-text-main-600 tw-text-10 text-base-two-600'>
-                              <i className='ph ph-piggy-bank' />
-                            </span>
-                          </span>
-                        </span>
-                        <div className='tw-px-8 tw-pb-10'>
-                          <h4 className='fw-normal tw-mb-3 text-dark-600 line-clamp-2'>
-                            Saving Account
-                          </h4>
-                          <p className='fw-normal tw-text-4 text-dark-500 line-clamp-4'>
-                            Savings accounts are designed for individuals
-                            securely while earning interest over time.
-                          </p>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                  <div
-                    className='swiper-slide'
-                    data-aos='fade-up'
-                    data-aos-duration={1200}
-                  >
-                    <div className='our-services-card-three position-relative group group-item'>
-                      <div className='bg-white rounded-4 w-100 group-hover-border-dark-600 tw-duration-400'>
-                        <span className='circle-shape-three position-absolute tw-transition-03-secend inset-inline-end-0px inset-block-start-0px tw-w-72px tw-h-72-px bg-neutral-10 rounded-circle' />
-                        <button
-                          type='button'
-                          className='group-hover-bg-main-600 tw-duration-400 our-services-button w-16 h-16 bg-white rounded-circle tw-text-8 text-dark-600 d-flex align-items-center justify-content-center position-absolute inset-block-start-0px inset-inline-end-0px'
-                        >
-                          <i className='ph-bold ph-arrow-up-right' />
-                        </button>
-                        <span className='tw-pt-605 tw-ps-605'>
-                          <span className='tw-w-72px tw-h-72-px border-base-two-100 rounded-3 d-flex align-items-center justify-content-center tw-mb-805'>
-                            <span className='w-15 h-15 bg-base-two-10 rounded-3 d-flex align-items-center justify-content-center group-hover-bg-base-two-600 tw-duration-400 group-hover-text-main-600 tw-text-10 text-base-two-600'>
-                              <i className='ph ph-shield-check' />
-                            </span>
-                          </span>
-                        </span>
-                        <div className='tw-px-8 tw-pb-10'>
-                          <h4 className='fw-normal tw-mb-3 text-dark-600 line-clamp-2'>
-                            Secure Payment
-                          </h4>
-                          <p className='fw-normal tw-text-4 text-dark-500 line-clamp-4'>
-                            Ensuring secure payments is our top priority. We
-                            employ advanced encryption, multi-factor{" "}
-                          </p>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
+
                 </div>
               </div>
               {/* ================= Our Services section end==================== */}

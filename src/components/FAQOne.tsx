@@ -171,7 +171,7 @@ const FAQOne: React.FC = () => {
                       aria-expanded='true'
                       aria-controls='collapseOne'
                     >
-                     What is RapidLoanLink?
+                     What is Rapid Loan Link?
                     </button>
                   </h2>
                   <div
@@ -181,7 +181,7 @@ const FAQOne: React.FC = () => {
                   >
                     <div className='accordion-body'>
                       <p className='fw-normal tw-text-lg text-dark-600'>
-                        RapidLoanLink helps you access fast, reliable loans through a simple online process. We focus on transparency, clear terms, and getting funds to you quickly without unnecessary hassle.
+                        Rapid Loan Link helps you access fast, reliable loans through a simple online process. We focus on transparency, clear terms, and getting funds to you quickly without unnecessary hassle.
                       </p>
                     </div>
                   </div>
@@ -210,7 +210,7 @@ const FAQOne: React.FC = () => {
                   >
                     <div className='accordion-body'>
                       <p className='fw-normal tw-text-lg text-dark-600'>
-                       A loan is a sum of money you can borrow for everyday expenses or unexpected needs. At RapidLoanLink, loan amounts range from $100 to $5,000, repaid in easy monthly installments.
+                       A loan is a sum of money you can borrow for everyday expenses or unexpected needs. At Rapid Loan Link, loan amounts range from $100 to $5,000, repaid in easy monthly installments.
                       </p>
                     </div>
                   </div>

@@ -6,14 +6,13 @@ import TopHeaderOne from "@/components/TopHeaderOne";
 import HeaderOne from "@/components/HeaderOne";
 import Breadcrumb from "@/components/Breadcrumb";
 /*import NewsletterTwo from "@/components/NewsletterTwo";*/
-import FooterThree from "@/components/FooterThree";
 import AboutInner from "@/components/AboutInner";
 import OurBankOne from "@/components/OurBankOne";
 /*import WhyChooseUsOne from "@/components/WhyChooseUsOne";
 import TeamMemberOne from "@/components/TeamMemberOne";
 import JoinSectionOne from "@/components/JoinSectionOne";
 import TestimonialsTwo from "@/components/TestimonialsTwo";*/
-import FAQOne from "@/components/FAQOne";
+import FooterOne from "@/components/FooterOne";
 
 export const generateMetadata = async (): Promise<Metadata> => {
   return {
@@ -81,7 +80,7 @@ const Page: React.FC = () => {
       {/*<NewsletterTwo />*/}
 
       {/* FooterThree */}
-      <FooterThree />
+      <FooterOne />
     </AOSWrap>
   );
 };
