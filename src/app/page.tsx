@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import TopHeaderOne from "@/components/TopHeaderOne";
 import Preloader from "@/helper/Preloader";
-import HeaderTwo from "@/components/HeaderTwo";
+import HeaderOne from "@/components/HeaderOne";
 import BannerOne from "@/components/BannerOne";
 import AOSWrap from "@/helper/AOSWrap";
 import OurFeatureOne from "@/components/OurFeatureOne";
@@ -53,7 +53,7 @@ export default function Home() {
       <TopHeaderOne />
 
       {/* HeaderOne */}
-      <HeaderTwo />
+      <HeaderOne />
 
       {/* BannerOne */}
       <BannerOne />
