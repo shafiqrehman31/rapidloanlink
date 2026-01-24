@@ -8,6 +8,8 @@ import RouteScrollToTop from "@/helper/RouteScrollToTop";
 import ErrorBoundary from "@/helper/ErrorBoundary";
 import '@fortawesome/fontawesome-svg-core/styles.css';
 
+
+
 const wendyOne = Wendy_One({
   subsets: ["latin"],
   weight: "400",
@@ -35,6 +37,8 @@ export async function generateMetadata() {
 }
 
 
+
+
 export default function RootLayout({
   children,
 }: Readonly<{
@@ -53,8 +57,14 @@ export default function RootLayout({
     <link rel="stylesheet" href="/assets/css/bootstrap.min.css" />
     <link rel="stylesheet" href="/assets/css/main.css" />
     <link rel="stylesheet" href="/assets/css/aos.css" />
-    <script src="/assets/js/aos.js" defer></script>
-         <script src="/assets/js/aos.js" defer></script>
+    
+    
+    <link rel="stylesheet" href="/assets/css/phosphor-icons-thin.css" />
+    <link rel="stylesheet" href="/assets/css/phosphor-icons-regular.css" />
+    <link rel="stylesheet" href="/assets/css/phosphor-icons-light.css" />
+    <link rel="stylesheet" href="/assets/css/phosphor-icons-bold.css" />
+
+    
       </head>
       <body suppressHydrationWarning={true}>
         <ErrorBoundary>
