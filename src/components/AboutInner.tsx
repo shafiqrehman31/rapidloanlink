@@ -112,7 +112,7 @@ const AboutInner: React.FC = () => {
               </div>
               <div className='position-relative max-w-155'>
                 <Link
-                  href='/aply-loan'
+                  href='/contact'
                   className='about-us-three-link tw-px-5 tw-py-205 bg-main-600 fw-semibold tw-text-lg text-base-two-600 rounded-3 border-two-px-solid'
                 >
                   Apply Now

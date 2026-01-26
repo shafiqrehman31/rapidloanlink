@@ -57,7 +57,7 @@ const OurBankOne: React.FC = () => {
                 </h2>
                 <h4 className='fw-normal tw-mb-2 '>Years of Excellent</h4>
                 <span className='fw-normal tw-text-lg text-dark-500'>
-                 With years of industry experience, RapidLoanLink is committed to delivering fast, secure, and transparent loan solutions that customers can trust.
+                 With years of industry experience, Rapid Loan Link is committed to delivering fast, secure, and transparent loan solutions that customers can trust.
                 </span>
               </div>
               <div
@@ -110,7 +110,7 @@ const OurBankOne: React.FC = () => {
                   data-aos-duration={1200}
                 >
                   <Link
-                    href='/apply-loan'
+                    href='/contact'
                     className='our-services-three-link w-100 text-center tw-py-205 border-two-px-solid rounded-3 bg-main-600 text-dark-600 fw-semibold'
                   >
                     Apply Now

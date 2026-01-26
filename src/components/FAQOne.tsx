@@ -561,7 +561,6 @@ const FAQOne: React.FC = () => {
                     <div className='accordion-body'>
                       <p className='fw-normal tw-text-lg text-dark-600'>
                         Yes! You can pay off your loan before the due date without any penalties. Early repayment may help you save on interest and finish your loan faster.
-                        Play.
                       </p>
                     </div>
                   </div>

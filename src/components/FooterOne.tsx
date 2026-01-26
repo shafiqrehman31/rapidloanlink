@@ -23,7 +23,7 @@ const FooterOne: React.FC = () => {
                   />
                 </Link>
                 <p className='fw-normal tw-text-lg text-neutral-10 tw-mb-8'>
-                  Rapid Loan Link is a trading style of Syer Limited company registered in England and Wales.
+                  Fast Loans, Clear Terms, Peace of Mind.
                 </p>
                 <ul className='d-flex align-items-center tw-gap-5'>
                   <li>
@@ -177,10 +177,11 @@ const FooterOne: React.FC = () => {
         <div className='tw-mb-10 border-top-dark-500 tw-pt-6'>
           <div className='d-flex align-items-center justify-content-between tw-gap-4 flex-wrap'>
             <p className='fw-semibold tw-text-lg text-white'>
-              Copyright @ {new Date().getFullYear()} Rapid Loan Link
+             Rapid Loan Link is a trading style of Syer Limited company registered in England and Wales.
+              
             </p>
             <span className='fw-semibold tw-text-lg text-white'>
-              Designed By <span className='text-main-600'>Rapid Loan Link</span>
+              Designed By <span className='text-main-600'>Copyright @ {new Date().getFullYear()} Rapid Loan Link</span>
             </span>
           </div>
         </div>
