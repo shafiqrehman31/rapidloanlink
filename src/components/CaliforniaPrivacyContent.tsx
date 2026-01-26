@@ -168,7 +168,7 @@ const CaliforniaPrivacyContent: React.FC = () => {
                           <div className='tw-w-12 tw-h-12 bg-primary-100 rounded-circle d-flex align-items-center justify-content-center flex-shrink-0'>
                             <i className='ph ph-user-circle tw-text-5 text-primary-600'></i>
                           </div>
-                          <h4 className='fw-bold text-dark-600 mb-0 h5-c'>B. Personal Information</h4>
+                          <h4 className='fw-bold text-dark-600 mb-0 h5-c ptext'>B. Personal Information</h4>
                           <span className='badge bg-primary-100 text-primary-600 fw-medium h5-c'>Cal. Civ. Code §1798.80</span>
                         </div>
                         <ul className='list-unstyled mb-0'>

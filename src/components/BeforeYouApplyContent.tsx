@@ -60,7 +60,7 @@ const BeforeYouApplyContent: React.FC = () => {
                         <div className='row gy-3'>
                           <div className='col-md-4'>
                             <div className='bg-neutral-50 tw-p-4 rounded-3 text-center h-100'>
-                              <div className='tw-w-10 tw-h-10 bg-primary-100 rounded-circle d-flex align-items-center justify-content-center mx-auto mb-3'>
+                              <div className='tw-w-10 bg-primary-100 rounded-circle d-flex align-items-center justify-content-center mx-auto mb-3'>
                                 <i className='ph ph-calendar-check tw-text-5 text-primary-600'></i>
                               </div>
                               <h6 className='fw-semibold text-dark-600 mb-1'>On Time</h6>
@@ -69,7 +69,7 @@ const BeforeYouApplyContent: React.FC = () => {
                           </div>
                           <div className='col-md-4'>
                             <div className='bg-neutral-50 tw-p-4 rounded-3 text-center h-100'>
-                              <div className='tw-w-10 tw-h-10 bg-primary-100 rounded-circle d-flex align-items-center justify-content-center mx-auto mb-3'>
+                              <div className='tw-w-10 bg-primary-100 rounded-circle d-flex align-items-center justify-content-center mx-auto mb-3'>
                                 <i className='ph ph-currency-dollar tw-text-5 text-primary-600'></i>
                               </div>
                               <h6 className='fw-semibold text-dark-600 mb-1'>With Interest</h6>
@@ -78,7 +78,7 @@ const BeforeYouApplyContent: React.FC = () => {
                           </div>
                           <div className='col-md-4'>
                             <div className='bg-neutral-50 tw-p-4 rounded-3 text-center h-100'>
-                              <div className='tw-w-10 tw-h-10 bg-primary-100 rounded-circle d-flex align-items-center justify-content-center mx-auto mb-3'>
+                              <div className='tw-w-10 bg-primary-100 rounded-circle d-flex align-items-center justify-content-center mx-auto mb-3'>
                                 <i className='ph ph-list-checks tw-text-5 text-primary-600'></i>
                               </div>
                               <h6 className='fw-semibold text-dark-600 mb-1'>As Scheduled</h6>
@@ -267,7 +267,7 @@ const BeforeYouApplyContent: React.FC = () => {
                       
                       <div className='bg-light tw-p-5 rounded-3 border border-neutral-200'>
                         <div className='d-flex align-items-center gap-3 mb-3'>
-                          <div className='tw-w-10 tw-h-10 bg-primary-100 rounded-circle d-flex align-items-center justify-content-center flex-shrink-0'>
+                          <div className='bg-primary-100 rounded-circle d-flex align-items-center justify-content-center flex-shrink-0'>
                             <i className='ph ph-phone-call tw-text-5 text-primary-600'></i>
                           </div>
                           <h5 className='fw-bold text-dark-600 mb-0'>Important Reminder</h5>
@@ -513,7 +513,7 @@ const BeforeYouApplyContent: React.FC = () => {
                   Now that you understand the important details, you're ready to proceed with confidence.
                 </p>
                 <a 
-                  href='/apply-loan'
+                  href='/contact'
                   className='btn btn-primary btn-lg fw-semibold tw-px-6 tw-py-3'
                 >
                   Start Your Application

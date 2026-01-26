@@ -159,7 +159,7 @@ const HeaderOne: React.FC = () => {
                 <div className='d-flex align-items-center tw-gap-605 flex-wrap'>
                   <div className='position-relative z-1'>
                     <Link
-                      href='/apply-loan'
+                      href='/contact'
                       className='header-item-link text-dark-600 fw-semibold tw-text-lg tw-px-4 tw-py-2 bg-main-600 border-two-px-solid rounded-2 hover-text-dark-600'
                     >
                       Loan Quote

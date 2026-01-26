@@ -42,7 +42,7 @@ const AboutInner: React.FC = () => {
               data-aos-duration={1200}
             >
               <Link
-                href='/apply-loan'
+                href='/contact'
                 className='about-us-three-link bg-main-600 tw-px-5 tw-py-205 w-100 rounded-3 border-two-px-solid text-dark-600 fw-semibold hover-text-dark-600 '
               >
                 Apply Now

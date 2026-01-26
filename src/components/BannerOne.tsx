@@ -73,7 +73,7 @@ const BannerOne: React.FC = () => {
                   >
                     <div className='max-w-248-px position-relative w-100'>
                       <a
-                        href='/apply-loan'
+                        href='/contact'
                         className='banner-item-link bg-main-600 text-dark-600 fw-semibold w-100 tw-py-3 text-center tw-text-lg border-two-px-solid rounded-3 hover-text-dark-600 tw-duration-500'
                       >
                        Apply For Loan

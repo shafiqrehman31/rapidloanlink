@@ -36,3 +36,7 @@ li {
     height: 3.0rem;
     min-width: 270px !important;
 }
+
+.ptext {
+    font-size: 13px;
+}
