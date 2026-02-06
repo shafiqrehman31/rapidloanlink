@@ -164,7 +164,7 @@ const FooterOne: React.FC = () => {
                   Contact Us
                 </h4>
                 <p className='fw-normal tw-text-lg text-neutral-10 tw-mb-705'>
-                  165 Broadway New York City NY 10006
+                  360 Edge Lane, Fairfield, Liverpool,England, L7 9NJ
                 </p>
                 <span className='tw-text-lg fw-normal text-neutral-10'>
                   info@rapidloanlink.com

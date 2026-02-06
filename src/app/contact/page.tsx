@@ -11,21 +11,22 @@ import FooterOne from "@/components/FooterOne";
 
 export const generateMetadata = async (): Promise<Metadata> => {
   return {
-    title: "Contact | PayOne Money Exchange Next JS Template",
+    title: "Contact | Rapid Loan Link",
     description:
-      "PayOne is a professional Next JS Template for online money exchange, remittance, and digital payment services. Clean design, responsive layout, and modern UI components included.",
+      "Get in touch with Rapid Loan Link for fast, secure, and reliable loan assistance. Our team is available to help you find the right lending solution anytime, anywhere.",
     openGraph: {
-      title: "Contact | PayOne",
+      title: "Contact | Rapid Loan Link",
       description:
-        "PayOne is a professional Next JS Template for online money exchange, remittance, and digital payment services. Clean design, responsive layout, and modern UI components included.",
-      url: "https://nextjs.payone.wowtheme7.com/contact",
+        "Contact Rapid Loan Link to explore quick approvals, competitive rates, and secure online loan services designed to meet your financial needs.",
+      url: "https://rapidloanlink.com/contact",
       type: "website",
+      siteName: "Rapid Loan Link",
       images: [
         {
-          url: "https://nextjs.payone.wowtheme7.com/images/meta.png",
+          url: "https://rapidloanlink.com/images/meta.png", // update if your image path is different
           width: 1200,
           height: 630,
-          alt: "PayOne",
+          alt: "Rapid Loan Link - Fast & Secure Loans",
         },
       ],
     },

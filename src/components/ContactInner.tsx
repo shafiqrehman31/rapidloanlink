@@ -35,7 +35,7 @@ const ContactInner: React.FC = () => {
                     Our Location
                   </h4>
                   <span className='fw-normal tw-text-lg text-dark-500 tw-duration-500 group-hover-text-white '>
-                    165 Broadway New York City NY 10006
+                     360 Edge Lane, Fairfield, Liverpool,England, L7 9NJ
                   </span>
                 </div>
               </div>
